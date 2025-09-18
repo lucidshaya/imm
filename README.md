@@ -133,7 +133,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Telegram-Bots/Wallet-Tracker-Bot.md">
+      <a href="https://github.com/Wallet-Tracker-Bot.md">
         <img src="https://github.com/maximus-soares/Projects/raw/main/photo_2025-09-01_12-23-03.jpg" style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
